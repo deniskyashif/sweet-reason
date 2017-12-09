@@ -24,7 +24,7 @@ descript_dir_path = sys.argv[2]
 document_root = xml.etree.ElementTree.parse(task_train_data_path).getroot()
 
 def is_noun(tag):
-    return tag[1].startswith('NN')
+    return tag[1] == 'NN' or tag[1] == 'NNS'
 
 
 def is_verb(tag):
