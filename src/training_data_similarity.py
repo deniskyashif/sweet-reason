@@ -36,8 +36,10 @@ def add_items(description, text):
     tags = nltk.pos_tag(tokens)
 
     for tag in tags:
-        if is_noun(tag) or is_verb(tag):
+        if is_noun(tag):
             description.add(tag[0].lower())
+        elif is_verb(tag):
+            description.add(stemmer.stem(tag[0].lower()))
 
 
 story_descriptions = []
@@ -61,16 +63,21 @@ for scenario_file in os.listdir(descript_dir_path):
     scenario_descriptions[scenario_name] = description
 
 
+high_prob_count = 0
 for idx, story_description in enumerate(story_descriptions):
     score = 0
     scenario = None
 
     for scenario_name, scenario_description in scenario_descriptions.items():
-        common_items = len(story_description & scenario_description)
-        all_items = len(story_description | scenario_description)
-        scenario_score = common_items / all_items
+        common_tokens_len = len(story_description & scenario_description)
+        scenario_score = common_tokens_len / len(story_description)
         if scenario_score > score:
             scenario = scenario_name
             score = scenario_score
 
+    if score >= 0.5:
+        high_prob_count += 1
+
     print(idx, score, scenario)
+
+print("high_prob: ", high_prob_count)
