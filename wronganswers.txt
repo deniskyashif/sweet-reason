@@ -1,0 +1,819 @@
+The other day , I finished reading the fourth book of the Game of Thrones Series  .  With the new season about to start on HBO , I wanted to get ahead of the show and continue reading the books in the series -- but I did not want to pay for the next book  .  Remembering that I had a library card somewhere in my desk at home , I went home and found it  .  I went to the library and after browsing the fiction section , I finally found the fifth book in the series and brought it to the check out desk of the library  .  I handed over my information and library card and checked out the book , getting two weeks to read it for free  .  I 'm now a quarter of the way through the book and enjoy every page of it while loving the fact that my taxes paid for me to read this and I had to pay no extra money  . 
+
+What is the genre of the book
+
+Fantasy/Fiction
+non-fiction
+0
+[[ 0.52648298  0.47351702]]
+-----------------------------------------------
+One evening, I noticed my alarm clock had stopped working, because I had just checked the clock in the living room, and my alarm clock showed a different time .  I knew I had to change the batteries .  This is important as I need it to wake me up in time for work .  I grabbed the clock, turned it upside down and located the slot for the batteries .  I lifted the plastic cover and checked what batteries it required: two AA-sized batteries .  These are quite common, and I got them from the kitchen drawer .  I removed the old batteries by lifting them up, then I placed the new batteries in the same position, making sure the plus-side of the batteries (the little tip) were in the right direction, as it is usually engraved on the plastic .  I closed the lid carefully, and the clock started ticking again .  I adjusted the time with the help of my watch, and went to bed, knowing I would be woken up by my alarm at the right time the next morning . 
+
+Was changing the batteries difficult
+
+No
+Yes
+0
+[[ 0.0340638  0.9659362]]
+-----------------------------------------------
+Time to make breakfast .  I'll get the coffee started because it will be the perfect temperature by the time all the food is done .  I grind the beans and put filtered water into the electric kettle and get it started .  I need to put a filter in the Chemex and pour in my ground coffee beans .  Meanwhile, I'll gather my ingredients from the fridge .  I want eggs, butter, English Muffins, and Canadian bacon .  A breakfast sandwich sounds good .  I'll get the English muffins toasted in the toaster .  My water just finished boiling, so it's time to pour that in the Chemex over the ground beans .  I need to get the frying pan and put a little butter in there and turn on the pan .  I grab and egg and scramble with a fork .  My pan is heating and the butter is melting I put my egg in and swirl it to cover the bottom of the pan .  While I wait for my eggs to set up, I'm going to microwave my Canadian bacon .  Back to the eggs, they are almost set so I'll fold them into a half circle and flip .  Grab my toasted English muffins on a plate .  Layer my Canadian bacon and fold my freshly cooked eggs on top .  I'll pour myself a cup of coffee and now I can sit down for breakfast .  Looks good . 
+
+Did they use plates
+
+yes
+no
+0
+[[ 0.25207007  0.74792993]]
+-----------------------------------------------
+Before you plant a tree , you must contact the utility company  .  They will come to your property and mark out utility lines  .  Without doing this , you may dig down and hit a line , which can be lethal  .  Once you know where to dig , select what type of tree you want  .  Take things into consideration such as how much sun it gets , what zone you are in , and how quickly you want it to grow  .  Dig a hole large enough for the tree and roots  .  Place the tree in the hole and then fill the hole back up with dirt  .  Many small trees will need support until they are bigger  .  This will ensure they grow tall and straight  .  It is crucial to keep the tree watered  .  It will need a lot of water at first  .  Mulch is helpful to keep the soil moist  .  It 's also important to wait until the threat of a frost has passed or is not in the near future  .  Giving care to your new tree will ensure that it will grow big and strong  . 
+
+Would it have been easier to plant the tree if they had help
+
+yes
+no
+0
+[[ 0.12776093  0.87223907]]
+-----------------------------------------------
+I was at camp and getting ready to lead a workshop teaching cooking on a campfire .  Luckily it had not rained for a few days so all the wood in the area was dry .  I had some large logs that were sitting by the fire ring so I went searching for some smaller sticks and kindling .  I built a log cabin structure out of the larger logs .  Inside the log cabin structure I put some very small tinder as well as some balled up pieces of newspaper .  I lit the newspaper and continued adding very small pieces of wood to it .  When the small pieces started catching I started adding larger twigs .  As smaller pieces started catching on fire I kept added larger and larger twigs and sticks until the big logs started burning .  I continued to add sticks so I could get a nice sized fire burning that would create lots of hot coals so we could cook on them . 
+
+What did they use for fuel
+
+Wood.
+gasoline
+0
+[[ 0.04107032  0.95892968]]
+-----------------------------------------------
+First I go to the store and buy bread .   For the freshest bread, I get a whole loaf and bring it home to slice it there .   I use a bread knife which makes cutting it easier, and cut off just what I need for the toast, leaving the rest whole .   I wrap and store the remaining loaf for next time .   Then I get the toaster out of the cabinet and place it on the counter, then plug it in .  I choose the darkness of the bread - not too dark, somewhere in the middle for flavor and safety - then indicate the slice thickness using the knob on the toaster .  I place the first two slices of bread in the slots and press down on the big button, which causes the bread to drop in and the toaster to get very hot .  The timer counts down and I pay attention to it carefully, making sure the toast pops up and the toaster turns off .   I unplug it immediately but let it cool down before putting it away as it is very hot .   I butter the bread using a knife and then put away the knives and butter . 
+
+Did they cut up the toast before eating it
+
+Yes
+No
+0
+[[ 0.32396255  0.67603745]]
+-----------------------------------------------
+First I go to the store and buy bread .   For the freshest bread, I get a whole loaf and bring it home to slice it there .   I use a bread knife which makes cutting it easier, and cut off just what I need for the toast, leaving the rest whole .   I wrap and store the remaining loaf for next time .   Then I get the toaster out of the cabinet and place it on the counter, then plug it in .  I choose the darkness of the bread - not too dark, somewhere in the middle for flavor and safety - then indicate the slice thickness using the knob on the toaster .  I place the first two slices of bread in the slots and press down on the big button, which causes the bread to drop in and the toaster to get very hot .  The timer counts down and I pay attention to it carefully, making sure the toast pops up and the toaster turns off .   I unplug it immediately but let it cool down before putting it away as it is very hot .   I butter the bread using a knife and then put away the knives and butter . 
+
+How many pieces of bread can you put in the toaster
+
+one
+two
+1
+[[ 0.53856233  0.46143767]]
+-----------------------------------------------
+I needed to visit my Grandma upstate , so I decided to take a train  .  I purchased my tickets online and printed out a receipt  .  I packed a bag  .  The next day , I headed over to the train station and checked in at the ticket counter  .  I was early , so I picked a spot on a bench and sat down  .  After a short while , everybody lined up to get on the train  .  A train worker checked all of our tickets  .  I entered the train and picked out a seat for myself  .  Then I loaded my bag overhead  .  Once everyone was on the train , our conductor announced that we were leaving the station  .  Another train worker came around and took everyone 's tickets from them  .  I spent the ride looking at scenery out the window and reading mostly  .  Eventually , the train conductor announced my stop  .  I retrieved my bag from the overhead compartment , and headed downstairs and off of the train  . 
+
+Did they sleep on the train
+
+No
+Yes
+0
+[[  5.56399441e-04   9.99443601e-01]]
+-----------------------------------------------
+One afternoon when I was visiting with friends, we suddenly got very hungry .   So, we decided to order a pizza .   I looked in the telephone book and found several pizza restaurants that would deliver .   We all talked it over and settled on a pizza from Domino's .   Then we discussed what we would like on our pizza and what size we should get .   I called the number and gave our order to the person who answered .   We ordered a large pepperoni and onion pizza with extra cheese .   He told me that our pizza would cost $15 . 00 .   I said that would be fine and asked if the pizza could be delivered .   He said, "yes" and asked for my address .   I then gave him my name, address, and phone number .   He told me that our pizza would be delivered in 30 minutes .   When the delivery boy arrived, we paid for our pizza and included a $2 . 00 tip .   Then we enjoyed eating our pizza . 
+
+How much of a tip was given
+
+$5.00
+$2.00
+1
+[[ 0.89933943  0.10066057]]
+-----------------------------------------------
+The previous night and this morning before work I noticed I was missing a lot of necessary ingredients for my future meals  .  I planned out a trip to the grocery store immediately after work  .  After I finished working I drove over to the store  .  It was very crowded but not too hard to find a parking spot  .  Once inside the store , I grabbed the nearest shopping cart and smiled as one of the grocery workers welcomed me in  .  Once inside and out of everyone 's way , I thought about what I needed  .  Since I did n't have a list written down , it took me a few minutes  .  Once I came up with the list in my head , I started to map out a route in my head that would take the least amount of time for me to follow in the store  .  First , I picked up my deli  .  They offered me some free samples of the meat I asked for  .  Then I picked up my bread which was right nearby  .  At the back wall of the store I found the meat I was going to cook tonight  .  After that , I grabbed a few extra items that I thought might also be nice later this week while heading towards checkout  .  Luckily , there was n't a line and this was done quickly  .  I paid with my debit card and left with all my groceries in a cart , packed them into my car , and headed home  . 
+
+Did they get meat
+
+Yes
+No.
+0
+[[ 0.34836008  0.65163992]]
+-----------------------------------------------
+Last night after dinner, I had "dishwasher duty . " That means that it was my turn to do the dishes and unload the dishwasher .  After the dishwasher had washed the dishes, I first opened the door to the dishwasher .  I unloaded the bottom rack first .  That way, if any water drips or leftover food were stuck on the dishes still, they wouldn't trickle down to my clean dishes .  The bottom drawer usually has my plates in it .  After unloading the bottom drawer, I unloaded the top drawer, which usually contains my cups, utensils, and my bowls .  I use a towel to dry off any leftover water drips .  I then put all of the dishes back into the original cupboard places that they came from .  That means that I put my plates in the cupboard near my sink, and I put my cups in the cupboard near my fridge .  Lastly, I put my utensils and bowls in a cupboard near the microwave . 
+
+How many people unloaded
+
+Two
+1
+1
+[[ 0.5568734  0.4431266]]
+-----------------------------------------------
+I wanted to have a nice dinner with my friends and family, so I cooked all of our favorite foods and invited everyone over .  I decided to go ahead and set the dining table before everyone arrived .  I put the place mats in front of each chair at the table .  I then placed dinner plates on each of the place mats .  I folded my favorite napkins neatly and placed on beside each plate .  I also made sure that everyone had a fork, knife and spoon .  The last thing I put at each place were the glasses .  I gave every person one glass for water and another glass for any other drink they might want .  I had tea, soda and milk for the children .  Before I placed all this on the table, I made sure to put my favorite red tablecloth on the table .  Everyone sat to eat and we had a delicious dinner together . 
+
+How many cups were in a setting
+
+One.
+Two.
+1
+[[ 0.68755777  0.31244223]]
+-----------------------------------------------
+I had been having issues with heartburn .   It's like everytime I had a meal, I was in pain and in agony .   Finally, I decided it was time to see the doctor .   I called the receptionist at the office to make an appointment .   She asked me what my problems were and booked me down for the next week .    I came in early for my appointment .   They had me update my health insurance card and fill out some paper work .   Then it was a short wait before the nurse called my name .   She brought me to the back and got my weight and other information .   We talked a bit and she led me into the exam room .   It wasn't long before the doctor came in .   He checked me out and talked to me about my condition .   He gave me a prescription, but also told me to stay away from foods that made me hurt . 
+
+Were they in a hospital
+
+Yes
+No
+1
+[[ 0.90381972  0.09618028]]
+-----------------------------------------------
+I had been having issues with heartburn .   It's like everytime I had a meal, I was in pain and in agony .   Finally, I decided it was time to see the doctor .   I called the receptionist at the office to make an appointment .   She asked me what my problems were and booked me down for the next week .    I came in early for my appointment .   They had me update my health insurance card and fill out some paper work .   Then it was a short wait before the nurse called my name .   She brought me to the back and got my weight and other information .   We talked a bit and she led me into the exam room .   It wasn't long before the doctor came in .   He checked me out and talked to me about my condition .   He gave me a prescription, but also told me to stay away from foods that made me hurt . 
+
+Did the doctor wear a stethoscope
+
+no
+yes
+1
+[[ 0.90926339  0.09073661]]
+-----------------------------------------------
+I had been having issues with heartburn .   It's like everytime I had a meal, I was in pain and in agony .   Finally, I decided it was time to see the doctor .   I called the receptionist at the office to make an appointment .   She asked me what my problems were and booked me down for the next week .    I came in early for my appointment .   They had me update my health insurance card and fill out some paper work .   Then it was a short wait before the nurse called my name .   She brought me to the back and got my weight and other information .   We talked a bit and she led me into the exam room .   It wasn't long before the doctor came in .   He checked me out and talked to me about my condition .   He gave me a prescription, but also told me to stay away from foods that made me hurt . 
+
+Did the nurses help
+
+Yes
+No
+0
+[[ 0.19960104  0.80039896]]
+-----------------------------------------------
+Last night, my friends and I wanted to make a bonfire .  So, we made sure that we had some fire wood .  We went to the back of her yard and gathered up some dry wood .  My friend reminded us that the wood had to be dry, or else it would not burn very well .  Next, we all helped out by placing the chunks of wood into the fire pit .  Once we stacked the wood into the fire pit, my friend grabbed a lighter and lighter fluid .  My friend poured some of the lighter fluid out onto the wood, and then used the lighter to light the wood .  It took a few tries, but the wood finally caught on fire, and we were able to start our bonfire .  As the fire continued to burn, we added more wood or newspaper to keep the fire burning .  We all had a fun time sitting around the fire and talking . 
+
+What day did they make the bonfire
+
+Yesterday.
+Monday.
+0
+[[ 0.40635723  0.59364277]]
+-----------------------------------------------
+Last night, my friends and I wanted to make a bonfire .  So, we made sure that we had some fire wood .  We went to the back of her yard and gathered up some dry wood .  My friend reminded us that the wood had to be dry, or else it would not burn very well .  Next, we all helped out by placing the chunks of wood into the fire pit .  Once we stacked the wood into the fire pit, my friend grabbed a lighter and lighter fluid .  My friend poured some of the lighter fluid out onto the wood, and then used the lighter to light the wood .  It took a few tries, but the wood finally caught on fire, and we were able to start our bonfire .  As the fire continued to burn, we added more wood or newspaper to keep the fire burning .  We all had a fun time sitting around the fire and talking . 
+
+Did they make a fire pit for the bonfire
+
+yes
+no
+0
+[[ 0.25447537  0.74552463]]
+-----------------------------------------------
+Yesterday I made a flight reservation to fly from Boston to Chicago .   The first step in making a flight reservation is to determine which airline you would like to fly .   I picked American Airlines because I have most of my airline miles with them and I always like to earn more miles .   I accessed the American Airlines website and entered the desired dates of my flight .   The website then provided me a bunch of different flight options for both my departing and returning flights .   I selected the flights that worked the best for me and were the most affordable and I selected them .   I was then directed to pay for my flight which I did via my American Airlines credit card .   Once my flight was paid for I received an email confirming my transaction and providing me my flight details .   I find that using the internet is much easier than calling the airlines for a flight reservation . 
+
+Was it hard to make the reservations
+
+yes
+no
+1
+[[ 0.51616824  0.48383176]]
+-----------------------------------------------
+Yesterday I made a flight reservation to fly from Boston to Chicago .   The first step in making a flight reservation is to determine which airline you would like to fly .   I picked American Airlines because I have most of my airline miles with them and I always like to earn more miles .   I accessed the American Airlines website and entered the desired dates of my flight .   The website then provided me a bunch of different flight options for both my departing and returning flights .   I selected the flights that worked the best for me and were the most affordable and I selected them .   I was then directed to pay for my flight which I did via my American Airlines credit card .   Once my flight was paid for I received an email confirming my transaction and providing me my flight details .   I find that using the internet is much easier than calling the airlines for a flight reservation . 
+
+When did they make the reservation
+
+Yesterday
+today
+0
+[[ 0.42119795  0.57880205]]
+-----------------------------------------------
+We spent a week getting our gear together for our big camping trip .  After making sure everything was packed and the tent had no holes from the last trip, we put everything into the car and set out on our way .  After a four hour drive we arrived at the campgrounds .  We found our spot and unpacked the car .  First up was pitching the tent, then we set about making a fire to cook dinner .  It took awhile to collect all the wood we needed and get it roaring, but once we got the food on the fire we could finally relax .  After soaking in nature and enjoying our campfire meal, night had fallen and it was time for bed .  We curled up in our sleeping bags and told scary stories until we drifted off .  The next morning we awoke early to stoke the fire and get breakfast started .  A day of hiking and fishing went by far too fast and after another night under the stars we packed up our gear and headed home . 
+
+do they have all the supplies
+
+NO
+YES
+1
+[[ 0.44599884  0.55400116]]
+-----------------------------------------------
+It was a very hot sunny Saturday morning and me and my family decide to go to the beach .  Before going to the beach we had to pack the car .  We packed some snacks .  We packed a cooler with all our drinks and water .  We put on our bathing suits and brought towels, beach chairs, a beach umbrella, beach toys, and a beach ball .  Mom brought sun tan lotion to protect us from the sun .  Once we got to the beach mom and dad setup all off the chairs, umbrella and towels .  Mom laid down on a towel while dad went running to the ocean .  We swam but not too far because the water was very deep .  There were a lot of waves and some people there were surfing with surfboards .  There was other people that were playing volleyball on the beach and there were a lot of kids building sand castles .  Dad helped us build our sand castle with a pool so that when the waves came in it would fill in our pool .  At the beach there was also a tower for the lifeguards to see everyone in the water .  There was a guy who went out too far into the water that the lifeguard had to blow his whistle for the guy to come closer to the beach .  I have heard that sometimes you can see shark in the ocean but lucky for us we did not see any sharks .  Visiting the beach was very fun for the whole family as mom can relax and get a tan and dad could play and swim with us . 
+
+Did they ride the waves
+
+yes
+no
+1
+[[  9.99038871e-01   9.61128909e-04]]
+-----------------------------------------------
+When I was younger, my mom wanted to make sure I would be safe around water .   She took me to the swimming pool to get better at it .   One day, we went to the swimming pool and brought our towels .   We got in the car and drove a few minutes to get there .   Sometimes, I would get bored when my siblings would swim, so I brought the book The Lord of the Rings with me to read if I was bored .   We made it to the pool and they stamped our hands when we arrived .   I went to sit down by the grass hill until it was my turn for a lesson .   While I sat there, I read a book .  Then it was my turn to get in, so I put my book down and got into the water .   The teacher taught me and then I got out of the pool . 
+
+Did their mother take them to the pool
+
+yes
+no
+0
+[[ 0.06882445  0.93117555]]
+-----------------------------------------------
+I wanted to watch a movie and decided to rent one form a store video rental .  I drove to the store and entered the building .  It was set up in sections according to movie genres; drama, comedy, horror, action, animated, thriller .  I decided to head to the drama section .  I looked through there available titles .  I picked out a recent release and brought the empty box up to the counter .  There the attendant took the film cover and went to find the corresponding film .  They brought back the film in a clear cover and told me I had three days for the rental .  I paid for it next .  Then I went home and watched the film .  It was enjoyable and I was pleased with my selection . The next day I returned it to the store .  I did not want to forget to return it because there are late fees for late movie returns . 
+
+Did they use a coupon to get the movie
+
+yes
+No.
+1
+[[  9.99466056e-01   5.33944248e-04]]
+-----------------------------------------------
+I wanted to watch a movie and decided to rent one form a store video rental .  I drove to the store and entered the building .  It was set up in sections according to movie genres; drama, comedy, horror, action, animated, thriller .  I decided to head to the drama section .  I looked through there available titles .  I picked out a recent release and brought the empty box up to the counter .  There the attendant took the film cover and went to find the corresponding film .  They brought back the film in a clear cover and told me I had three days for the rental .  I paid for it next .  Then I went home and watched the film .  It was enjoyable and I was pleased with my selection . The next day I returned it to the store .  I did not want to forget to return it because there are late fees for late movie returns . 
+
+Was the movie one they'd seen before
+
+Yes
+No.
+1
+[[  9.99738759e-01   2.61240533e-04]]
+-----------------------------------------------
+Yesterday I woke up and decided to wear my favorite cardigan sweater to work .   After taking a shower and eaten breakfast I started getting dressed .   I put on a pair of jeans and then I reached for my favorite black cardigan .   As I began to button it up I realized that one of the buttons had fallen off .   Of course I did not want to wear any other sweater, just this one as it was my favorite .   I went to my spare room and dug my sewing kit out of the dresser .   I found a thread and button that would match and I quickly threaded a needle .   I began to methodically move the needle through the holes in the button to sew it back onto the sweater .   After a few minutes I cut the thread and secured the button to the sweater .   Finally I was able to put my sweater on and head off to work . 
+
+Was the shirt missing the button
+
+No
+Yes
+1
+[[ 0.79414602  0.20585398]]
+-----------------------------------------------
+Today I went to the sauna and relaxed in the room for thirty minutes .  I went with a friend and when we opened the door to the sauna, we realized that it was cold .  I adjusted the temperature, on the outside of the sauna, and we waited inside of the sauna room while the coals of the heater warmed the room up .  The room took about five minutes to reach the comfortable temperature that I set it at and we sat in the room for half an hour .  As we relaxed in the room we had a conversation and when we felt as if we had spent enough time in the sauna we dried ourselves off with the towels that we brought with us to the room .  After we dried off, we left the room and I turned off the thermostat, of the sauna, so that it could cool back down . 
+
+Was there anyone else in the sauna
+
+no
+yes
+1
+[[ 0.96053173  0.03946827]]
+-----------------------------------------------
+We normally set a menu on Sunday for each day of the upcoming week to avoid chaos during dinner time .  Before I leave for the day in the morning, I am sure to put out the ingredients I need for the dinner ahead of time and defrost any meat I may need to prepare the meal .  At around five-thirty, I begin preparing the meal .  One meal I prepare often is ground turkey meatloaf and seasoned green beans .  I mix the ground turkey with some bread crumbs, ketchup, and a bit of egg to bind it .  I also lightly season it for flavor .  I push it into the loaf pan, and put it in the oven to cook .  I then begin preparing the seasoned green beans .  I like to use fresh green beans .  They may involve the extra work of snapping off the ends before cooking them, but they taste so much fresher .  I season them with red pepper flakes and a little bit of lemon juice .  When the oven dings, dinner is ready for my family and I to enjoy . 
+
+Did they use an oven
+
+yes
+no
+0
+[[ 0.22220616  0.77779384]]
+-----------------------------------------------
+I was reading a great book in my favorite chair when suddenly the light went out .  I flicked the switch on my reading lamp, but it did me no good .  It looked like that light bulb had burned out .  I went to the hall closet and poked around, and luckily I found just what I needed, a package of light bulbs just like the one that had burned out .  I brought one of the new bulbs back to the living room, and unscrewed the old used-up light bulb .  I put it on the kitchen counter so I would see it in the morning and remember to recycle it at our city's transfer station .  Then I screwed the new light bulb into the light socket  and turned on the lamp .  The light shone bright and clear .  I settled back into my chair with a sigh, and opened my book again . 
+
+Did they have extra light bulbs just in case
+
+yes
+no
+0
+[[ 0.05764394  0.94235606]]
+-----------------------------------------------
+It was a Monday evening in a warm July heat wave .  My wife and I had just completed a particularly tasty meal that I had prepared for the both of us .  We were both very full and sat in momentary silence as we pondered the situation in front of us .  We knew we had to clean the table off, but neither of us were particularly excited about the task at hand .  At last, we came to a conclusion .  I would clear the plates, silverware, napkins and drink glasses from the table and put them in the dishwasher .  My wife would grab some wood-cleaner from underneath the cabinet so we could wipe down the table-top .  After the plates, silverware, napkins and glasses were clear, she sprayed the wood cleaner across the surface of the table .  She took a white rag and wiped the table top until she was satisfied that it was clean . 
+
+Did they use moist wipes to clean the table
+
+No
+Yes
+0
+[[ 0.03884299  0.96115701]]
+-----------------------------------------------
+It was a Monday evening in a warm July heat wave .  My wife and I had just completed a particularly tasty meal that I had prepared for the both of us .  We were both very full and sat in momentary silence as we pondered the situation in front of us .  We knew we had to clean the table off, but neither of us were particularly excited about the task at hand .  At last, we came to a conclusion .  I would clear the plates, silverware, napkins and drink glasses from the table and put them in the dishwasher .  My wife would grab some wood-cleaner from underneath the cabinet so we could wipe down the table-top .  After the plates, silverware, napkins and glasses were clear, she sprayed the wood cleaner across the surface of the table .  She took a white rag and wiped the table top until she was satisfied that it was clean . 
+
+Did someone spill something on the table
+
+Yes
+No.
+1
+[[ 0.98432116  0.01567884]]
+-----------------------------------------------
+It was a Monday evening in a warm July heat wave .  My wife and I had just completed a particularly tasty meal that I had prepared for the both of us .  We were both very full and sat in momentary silence as we pondered the situation in front of us .  We knew we had to clean the table off, but neither of us were particularly excited about the task at hand .  At last, we came to a conclusion .  I would clear the plates, silverware, napkins and drink glasses from the table and put them in the dishwasher .  My wife would grab some wood-cleaner from underneath the cabinet so we could wipe down the table-top .  After the plates, silverware, napkins and glasses were clear, she sprayed the wood cleaner across the surface of the table .  She took a white rag and wiped the table top until she was satisfied that it was clean . 
+
+Did the table have a table cloth
+
+Yes
+No.
+1
+[[ 0.99710627  0.00289373]]
+-----------------------------------------------
+When I was a boy scout, we went fishing to a lake .   When we were on the lake (it was frozen), we decided to fish for some fish .   We drilled a hole into the lake and caught a lot .   We wanted to cook them, so we cleaned them out of all the nasty stuff in their body and started a fire .   When the fire was getting calmed down, the hot coals started to steam .   When it started steaming, we got the fish out and put it on a cast iron pan .   We put the pan on the middle of the fire with the lid on it and we waited while the fish cooked .   It smelled really good to us, especially with how hungry that we were .   After it started to smell almost burned, we took the pan off of the fire with hot gloves and ate the fish inside when cooled . 
+
+Was the fish cooked over a fire
+
+yes
+no
+0
+[[ 0.02561574  0.97438426]]
+-----------------------------------------------
+I am so excited to learn how to drive today with Scott .  We are in a large vacant parking lot and no one else is around so it will be perfectly safe for us, the car and anyone else .  As we both get in the car, we put on our seatbelts .  Check .  Now he instructs me to put the key in the ignition and give it a gentle turn forward toward the front of the car .  I hear the engine crank and can feel it hum .  He tells me to grab the crankshaft and put it into the "D" position .  I feel the car surge forward and immediately hit the brake pedal on the left and car stops .  He tells me it's fine and to give it a little gas .  The car begins to move forward as travel in a straight line .  The more gas I give it from the pedal on the right, the faster we go . 
+
+Who taught the driving lesson
+
+Scott
+John.
+0
+[[ 0.38506532  0.61493468]]
+-----------------------------------------------
+I am so excited to learn how to drive today with Scott .  We are in a large vacant parking lot and no one else is around so it will be perfectly safe for us, the car and anyone else .  As we both get in the car, we put on our seatbelts .  Check .  Now he instructs me to put the key in the ignition and give it a gentle turn forward toward the front of the car .  I hear the engine crank and can feel it hum .  He tells me to grab the crankshaft and put it into the "D" position .  I feel the car surge forward and immediately hit the brake pedal on the left and car stops .  He tells me it's fine and to give it a little gas .  The car begins to move forward as travel in a straight line .  The more gas I give it from the pedal on the right, the faster we go . 
+
+Was it an automatic or standard car
+
+automatic
+Standard.
+0
+[[ 0.14115101  0.85884899]]
+-----------------------------------------------
+I love shopping online .  Last weekend I wanted to order some vitamins .  I looked on two web sites to find exactly the kind of vitamins I wanted .  And I also looked at prices .  I even tried to find some near me so that they would be shipped to me quick .  The quickest way to get them and not have to pay too much money would cause them to get to me in four days .  So I decided to order and wait .  On Monday morning there was a package by my front door .  I opened it .  It was the vitamins .  It took less than 24 hours for them to get to me .  I was happy the vitamins were here .  I tried to figure out how they go to me so quick .  Then I figured out that they came from an Amazon facility near me .  I might order from Amazon again since they got here quick . 
+
+what website was used
+
+Amazon.com
+eBay
+0
+[[ 0.51698811  0.48301189]]
+-----------------------------------------------
+Last night I decided to make Mexican Bean Salad for dinner .  This is a really nice, light, and flavorful dish to eat during the summer .  I looked up the recipe and took out a notepad and a pen so I could make a list of all of the ingredients I needed to get at the grocery store on my way home from work .  Some of the ingredients I already had - like olive oil, red wine vinegar, garlic, and cumin .  However, I needed many of the other necessary ingredients in order to make the recipe .  On my shopping list, I wrote that I needed one can of black beans, one can of kidney beans, one can of cannellini beans, a bag of frozen corn, one red onion, one green bell pepper, one red bell pepper, and one bunch of cilantro .  I put the shopping list in my purse so I could reference it later at the store and make sure I buy everything that I need for dinner . 
+
+Did the list have expensive items
+
+yes
+no
+1
+[[ 0.99824432  0.00175568]]
+-----------------------------------------------
+At noon, my cat began to meow .  He does this every single day around this time to signal that he's hungry and wants food .  I got up from my chair and went to the kitchen .  He followed me there, slinking in and out of my legs as I walked down the hall .  I grabbed the box of food from on top of the freezer and took out one pouch .  I tore it open and dumped the food into his bowl that sat on the ground next to the wall .  He quickly began to eat the food .  Meanwhile, I washed out his water bowl in the sink and filled it with fresh, cold water .  Then, I sat it down onto the floor right next to his food bowl .  He soon finished his food and purred in appreciation .  He drank some water and then quickly ran out of the room to hide under the bed and take a nap . 
+
+How many cats were eating
+
+one
+two
+0
+[[ 0.55270173  0.44729827]]
+-----------------------------------------------
+I had been putting of visiting a doctor because my regular primary care provider was nearly a mile away, and I owed the money that I simply did not have .  I decide to visit an office that was much closer .  I was so glad I did because they had sliding scale fee that drastically reduced the cost of doctor visits and specialists that I desperately needed to see .  I filled out all the necessary paperwork and had a visit scheduled .  The date came and I went to see my new primary care provider .  I had anxiety as I always do when seeing a medical professional .  She ended up being incredibly kind and understanding and she gave me a referral to see a chiropractor .  I was so happy that I was finally going to be able to see someone to help with my back pain .  I dislike narcotic painkillers and over the counter pain killers just don't cut it most days .  overall it was a positive experience and rather comedic that I was actually scared . 
+
+Was it confusing
+
+yes
+no
+1
+[[ 0.98267485  0.01732515]]
+-----------------------------------------------
+Samantha was so excited to go to her new friend's seventh birthday party; it was going to be Spider-Man themed and Samantha loved spider-man .  The party was going to start in 1 hour and it was time for her to get ready to go, so she ran as fast as she could into her room to grab her party clothes .  When she reached into her drawer to grab her prettiest dress- It was a beautiful pink color with pretty purple flowers and polka dots on it- she found that the dress looked ruined .  It was wrinkled and bunched up from being shoved into her drawer for so long underneath all her other clothes .  She ran to her mom in a panic, saying she couldn't make it to the party with a ruined dress .  Her mom smiled and told her it was going to be okay, then she pulled out something she called an Ironing Board, which she explained would help her get the wrinkles out of the pretty dress without hurting it .  Her mom ironed the dress and sure enough, it was then free of wrinkles and she was ready to go to the birthday party . 
+
+Did they have to do all the ironing by themselves
+
+yes
+no
+1
+[[ 0.97213586  0.02786414]]
+-----------------------------------------------
+This week we had bad weather from a tropical storm .  My little boy was scared of the weather .  Then, the lights went out, which made it much worse .  In order to lessen the stress, I asked him if he would like to build a fort for us to play games in .  He had the idea for us to eat pizza in the fort .  Since our electricity was out, we could not bake one .  We decided we could order a pizza .  I gave him the choices of the crust and he chose thin crust .  I gave him the choice of toppings and he just wanted pepperoni and cheese .  I got his half with pepperoni and my half with vegetables .  We put in our order and added some chicken bites, for some extra protein .  We built our fort while we waited for the pizza to arrive .  The pizza came and we had a pizza fort party by lantern light .  I was an amazing memory from a situation that was less than positive . 
+
+How many people ate the pizza
+
+one
+Two
+1
+[[  9.99741098e-01   2.58901583e-04]]
+-----------------------------------------------
+When ever I want to make any reservation, I always do online, so I can get good deals .  I first went to travel sites ( trip advisor ) to see if any good deal is there .  I am planning to travel from Atlanta to Singapore .  I note down some fares, and then I visited expedia and dunhill travel sites .   .  I liked the tripadvisor, after reviewing the site, and looking at the customer reviews .  The number was on site .  When I first talked to him, he gave me some options I  think I got good deal, $1300 for round trip with stop at London for 14 hours and then directly to Singapore .  I liked that way because I wanted to see London also .   It was good timing that I could go out see London and come back, and still I was left with ease .  I asked the agent, about any delaying problem, and cancellation .  He told me if I add more $50 dollars, then I can change or cancel my trip without any penalty , and I did . 
+
+Was it hard to make the reservations
+
+yes
+no
+1
+[[ 0.99726949  0.00273051]]
+-----------------------------------------------
+Cooking fish is a fun and cool activity that many people can do because there are so many steps .  First the step is to find a good sized fish .  Now I know what your thinking, and you cannot just grab any ole fish out of a tank or something you found in a stream .  You need a good fish with lots of meat and food on it .  My favorite fish to cook is probably drum, so once you have a good nice drum you first have to cut it .  Get all the meat off of it and then there are a number of ways to cook it .  I like to fry my fish, so I season it with a number of thinks and then make sure to cover it in flour and bread crumbs .  I then heat the oil I will be using to fry it to a very hot temperature and then dunk the fish in the oil until it is nice and brown . 
+
+What kind of fish was it
+
+Drum
+Salmon
+0
+[[ 0.13924865  0.86075135]]
+-----------------------------------------------
+Cooking fish is a fun and cool activity that many people can do because there are so many steps .  First the step is to find a good sized fish .  Now I know what your thinking, and you cannot just grab any ole fish out of a tank or something you found in a stream .  You need a good fish with lots of meat and food on it .  My favorite fish to cook is probably drum, so once you have a good nice drum you first have to cut it .  Get all the meat off of it and then there are a number of ways to cook it .  I like to fry my fish, so I season it with a number of thinks and then make sure to cover it in flour and bread crumbs .  I then heat the oil I will be using to fry it to a very hot temperature and then dunk the fish in the oil until it is nice and brown . 
+
+Did they follow a recipe to cook the fish
+
+No
+Yes
+0
+[[ 0.07376546  0.92623454]]
+-----------------------------------------------
+We are going on a trip to Six Flags .  We will be staying for two nights in a hotel so we need to pack .  The suitcases are stored in the walk-in closet so they are brought out into the living room .  We need to decide what kind of clothing we'll need, so let's turn on the Weather Channel .  Since it is going to be very warm with no rain during our trip we will pack mostly summer clothes .  Each person will need three shorts and tops so there are clothes for each day and an extra outfit if needed .  Fold everything nicely so it does not wrinkle and all clothing fits in the suitcase .  Let's move on to the bathroom and pack tooth care supplies like a toothbrush, mouthwash, and toothpaste .  Deodorant , make-up, perfume, and cologne also go in now .  Put these items in the side pocket of the suitcase to be reached quickly .  Everyone pack one sweatshirt and light jacket in case it is colder at night .  Grab swimsuits and trunks too, for the water park, and bring sandals and sneakers .  Now all we have to do is pack our towels for the water park, get the tickets and money packed, and leave the house to start our trip . 
+
+Was it packed for more than one person
+
+No
+Yes
+1
+[[ 0.48143122  0.51856878]]
+-----------------------------------------------
+We are going on a trip to Six Flags .  We will be staying for two nights in a hotel so we need to pack .  The suitcases are stored in the walk-in closet so they are brought out into the living room .  We need to decide what kind of clothing we'll need, so let's turn on the Weather Channel .  Since it is going to be very warm with no rain during our trip we will pack mostly summer clothes .  Each person will need three shorts and tops so there are clothes for each day and an extra outfit if needed .  Fold everything nicely so it does not wrinkle and all clothing fits in the suitcase .  Let's move on to the bathroom and pack tooth care supplies like a toothbrush, mouthwash, and toothpaste .  Deodorant , make-up, perfume, and cologne also go in now .  Put these items in the side pocket of the suitcase to be reached quickly .  Everyone pack one sweatshirt and light jacket in case it is colder at night .  Grab swimsuits and trunks too, for the water park, and bring sandals and sneakers .  Now all we have to do is pack our towels for the water park, get the tickets and money packed, and leave the house to start our trip . 
+
+Where did they put the suitcase before filling it
+
+bed
+bathroom
+0
+[[ 0.40102997  0.59897003]]
+-----------------------------------------------
+We are going on a trip to Six Flags .  We will be staying for two nights in a hotel so we need to pack .  The suitcases are stored in the walk-in closet so they are brought out into the living room .  We need to decide what kind of clothing we'll need, so let's turn on the Weather Channel .  Since it is going to be very warm with no rain during our trip we will pack mostly summer clothes .  Each person will need three shorts and tops so there are clothes for each day and an extra outfit if needed .  Fold everything nicely so it does not wrinkle and all clothing fits in the suitcase .  Let's move on to the bathroom and pack tooth care supplies like a toothbrush, mouthwash, and toothpaste .  Deodorant , make-up, perfume, and cologne also go in now .  Put these items in the side pocket of the suitcase to be reached quickly .  Everyone pack one sweatshirt and light jacket in case it is colder at night .  Grab swimsuits and trunks too, for the water park, and bring sandals and sneakers .  Now all we have to do is pack our towels for the water park, get the tickets and money packed, and leave the house to start our trip . 
+
+Was it a business trip
+
+Yes
+No
+1
+[[ 0.49489238  0.50510762]]
+-----------------------------------------------
+We are going on a trip to Six Flags .  We will be staying for two nights in a hotel so we need to pack .  The suitcases are stored in the walk-in closet so they are brought out into the living room .  We need to decide what kind of clothing we'll need, so let's turn on the Weather Channel .  Since it is going to be very warm with no rain during our trip we will pack mostly summer clothes .  Each person will need three shorts and tops so there are clothes for each day and an extra outfit if needed .  Fold everything nicely so it does not wrinkle and all clothing fits in the suitcase .  Let's move on to the bathroom and pack tooth care supplies like a toothbrush, mouthwash, and toothpaste .  Deodorant , make-up, perfume, and cologne also go in now .  Put these items in the side pocket of the suitcase to be reached quickly .  Everyone pack one sweatshirt and light jacket in case it is colder at night .  Grab swimsuits and trunks too, for the water park, and bring sandals and sneakers .  Now all we have to do is pack our towels for the water park, get the tickets and money packed, and leave the house to start our trip . 
+
+Are they just packing one suitcase
+
+Yes
+No
+1
+[[ 0.57485416  0.42514584]]
+-----------------------------------------------
+Last night I decided I was going to go dancing .  My husband, daughter, sisters and their husbands and nieces went out to a nice place where a lot of people go .  We got to the place we were going dancing .  There was a guy at the door checking ID's to make sure there wasn't anyone under the age of 21 going in .  Of course we were all over 21 so there weren't any issues .  We all went in and found us a table .  We then decided to order some drinks and about that time a waitress came over and asked us what we would like to have .  We all gave her our order and she went to get the drinks .  While she was away a good song started playing and we all decided to dance .  We all went out on the dance floor and danced until the end of the song .  We went back to our table and our drinks arrived as soon as we got back .  We all drank our drink and decided to dance some more .  We stayed for a few hours and danced .  We all then decided it was time to go home .  We all went to the door .  We told one another bye and we all left and went home . 
+
+Were they dancing alone
+
+No
+Yes
+0
+[[ 0.00115176  0.99884824]]
+-----------------------------------------------
+I woke up with my alarm and sluggishly got out of bed .  I went to the bathroom and turned out the light .  I went to the shower and turned the water on .  While it was warming up I got a towel from the closet and undressed .  I stepped into the shower and grabbed the bottle of shampoo I keep on the ledge .  I squirt some into my hand, about the size of a quarter .  I wet my hair and then rub in the shampoo .  I scrub my hair and can feel all the suds forming on my head .  After a few minutes of this I carefully rinse the soap out of my hair .  I don't want to get it in my eyes .  I then grab my bottle of conditioner and repeat what I did with the shampoo .  This time though I leave it sit for a couple minutes so many hair can soak up those nutrients .  I then rinse off again making sure there's no soap what so ever left .   I shut off the shower and dry off, my hair now squeaky clean . 
+
+Is the water hot or just warm
+
+hot
+Warm.
+1
+[[ 0.75780627  0.24219373]]
+-----------------------------------------------
+When I cooked pasta last, I had a great experience .  I was with my girlfriend and we were in the mood for pasta and meat sauce .  In order to do this, we first picked the pasta out of the cabinet and opened up the box .  We then boiled the water, before putting the pasta in .  As we put the pasta in, we stirred it and watched the water boil .  After putting in spices and watching the pasta for about five to ten minutes, we tried one piece of pasta to see if it was soft enough to eat .  Upon trying the food and enjoying the taste, we put the meat sauce on the pasta and let it get hot .  Upon both the pasta and the sauce getting hot, we put it all on bowls and ate the pasta .  This tasted amazing and I felt that it was perfectly tasty and hot . 
+
+Did they use a fork or spoon to eat the pasta
+
+fork
+spoon
+0
+[[ 0.00889955  0.99110045]]
+-----------------------------------------------
+I set a pan on the stove and grab a plastic bowl from the cupboard over the stove and set it on the counter adjacent to the stove top .  I open the refrigerator and grab two eggs out of the carton .  Cracking the eggs against the side of the dish gently and then open them over the bowl, making sure there is no shell in the bowl I then toss the shells into the trash can behind me .  I put a splash of cream, milk or water into the eggs and then beat them furiously with a fork or whisk .  I then grab the soft butter from next to the toaster and put one pat into the pan .  I turn the burner on and once the butter starts to sizzle I pour the beaten eggs into the pan, add a little salt and pepper and wait until they are semi firm .  I then grab a spatula and chop the eggs up and let the carry over heat cook the eggs the rest of the way . 
+
+What meal was this
+
+Breakfast
+Dinner
+0
+[[ 0.42270994  0.57729006]]
+-----------------------------------------------
+Yesterday my wife and I wanted to watch a new movie that had just hit the video stands .   I went to the local store which had a Red Box video vending machine outside of it .   I looked over the selections it had till I found the one I wanted .   I put my credit card into the slot for paying and purchased a copy of the movie to watch .   I took the copy from the machine and headed home after stopping at the store to buy some popcorn for the movie .   I placed it into the DVD and watched the movie while enjoying the popcorn .   The movie and the popcorn were great .   When I was done I popped the DVD out of the machine and went back to the store to return the movie to the Red Box video vending machine .   It was an excellent experience and I will definitely do it again . 
+
+Did they return the movie on time
+
+No
+Yes
+1
+[[ 0.41181546  0.58818454]]
+-----------------------------------------------
+I sometimes put a gift in a box, if it doesn't already have one, to make it easier to wrap .  It's nice to put tissue paper inside the box, too .  That makes opening the gift more interesting .  After I have the gift boxed, I assemble my wrapping supplies .  I use rolled wrapping paper, clear tape, scissors, and ribbon .  Next, I unroll some wrapping paper and place the gift box on top of the flat paper .  I  study it, trying to figure out how much paper to cut off the roll .  I don't want to waste paper, but I also want to neatly cover the gift .  Once I decide how much paper to cut off, I mark the place with pencil, then fold there, and cut the paper along the fold line .  Now I turn the gift upside down, and position it in the center of my paper .  I pull up one end of the paper, and tape it to the center bottom of the box .  I pull the other end of the paper smooth, pull it around  the box and tape it in place too .  Then I do the ends of the package, folding the paper down, cutting it shorter if I must, and smoothing it neatly around the gift box .  I tape it in place, and decorate the box with pretty ribbon and bows to distract from any mistakes I may have made . 
+
+Who came to help
+
+mom
+noone
+1
+[[ 0.43881967  0.56118033]]
+-----------------------------------------------
+I sometimes put a gift in a box, if it doesn't already have one, to make it easier to wrap .  It's nice to put tissue paper inside the box, too .  That makes opening the gift more interesting .  After I have the gift boxed, I assemble my wrapping supplies .  I use rolled wrapping paper, clear tape, scissors, and ribbon .  Next, I unroll some wrapping paper and place the gift box on top of the flat paper .  I  study it, trying to figure out how much paper to cut off the roll .  I don't want to waste paper, but I also want to neatly cover the gift .  Once I decide how much paper to cut off, I mark the place with pencil, then fold there, and cut the paper along the fold line .  Now I turn the gift upside down, and position it in the center of my paper .  I pull up one end of the paper, and tape it to the center bottom of the box .  I pull the other end of the paper smooth, pull it around  the box and tape it in place too .  Then I do the ends of the package, folding the paper down, cutting it shorter if I must, and smoothing it neatly around the gift box .  I tape it in place, and decorate the box with pretty ribbon and bows to distract from any mistakes I may have made . 
+
+Who offered to help them
+
+mom
+Nobody
+1
+[[ 0.52467903  0.47532097]]
+-----------------------------------------------
+Now we stood here in the line in front of the large glass window with people inside .  Once our turn came up, we bought tickets to the movie we wanted to watch .  The showtime wasn't for another 30 minutes .  So we decided to go the arcade next door and play some games .  They have real old classic arcade games there .   Remember Galaga? Donkey Kong? Even the old Star Wars simulator .  That was my favorite game when I was a kid .  .  .   Once we're inside the theater, we bought some candies, popcorn, and some drinks .  With our hands full with goodies, we headed into viewing room .  It was already packed with people .  We find a pair of good seats towards the back .  There are nice old couple seated towards the aisle .  We approached the seats and asked with a smile, "Can we get by here? Thank you . " Nice folks replied with a smile and said, "Why of course my dear, Go on in . " We sat down and enjoyed the movie with a handful of popcorn and an occasional slurp of the soda . 
+
+Did they got to the movie with anyone else
+
+yes
+no
+0
+[[ 0.03976104  0.96023896]]
+-----------------------------------------------
+Now we stood here in the line in front of the large glass window with people inside .  Once our turn came up, we bought tickets to the movie we wanted to watch .  The showtime wasn't for another 30 minutes .  So we decided to go the arcade next door and play some games .  They have real old classic arcade games there .   Remember Galaga? Donkey Kong? Even the old Star Wars simulator .  That was my favorite game when I was a kid .  .  .   Once we're inside the theater, we bought some candies, popcorn, and some drinks .  With our hands full with goodies, we headed into viewing room .  It was already packed with people .  We find a pair of good seats towards the back .  There are nice old couple seated towards the aisle .  We approached the seats and asked with a smile, "Can we get by here? Thank you . " Nice folks replied with a smile and said, "Why of course my dear, Go on in . " We sat down and enjoyed the movie with a handful of popcorn and an occasional slurp of the soda . 
+
+Did they go with anyone else
+
+yes
+No.
+0
+[[ 0.1236482  0.8763518]]
+-----------------------------------------------
+When my baby was born, I knew I would be learning a lot of new things .  She woke up in the middle of the night because she was hungry .  I picked her up from her crib and held her close as I walked towards the rocking chair in the nursery .  I pulled down the shoulder of my nightgown and unhooked the nursing bra I was wearing so the baby could latch onto my breast and eat .  She didn't like having a bottle, so nursing was our best option to keep her happy and fed .  She nursed for half an hour and slowly, as she got full, her eyes started to droop shut .  I started to sing her a lullaby, soft and sweet, and she soon fell asleep .  I wiped some milk from the corner of her mouth with a tissue, and set her back down in her crib so she could sleep until it was time to eat again . 
+
+Are they feeding the baby with warm food
+
+yes
+no
+0
+[[ 0.58030807  0.41969193]]
+-----------------------------------------------
+To remove and replace a garbage bag, first lift the full garbage bag from the garbage can .  Some garbage bags have ties or strings that are attached to them and can be used to close the top of the garbage bag by pulling on the strings until the opening completely closes .  Then the ends of the strings can be tied in a knot so the bag will not open .  If the bag does not have strings attached, use a twist tie to close the opening by gathering the top of the bag together and wrapping the twist tie around the end of the bag and twisting the ends of the twist tie together .  Take the full, closed garbage bag outside so the garbage man can pick it up .  Then, take a new garbage bag out of the box and unfold it before putting it in the garbage can .  You can fold the top edge of the garbage bag over the rim of the can so that garbage does not get between the can and the bag . 
+
+Did the trash smell bad
+
+yes
+no
+0
+[[ 0.22398864  0.77601136]]
+-----------------------------------------------
+Today was the start of Spring, so I decided it was time to get some cleaning done .  The first and largest thing to deal with was my apartment flat .  I started by picking up any loose items that were not in their proper place .  I put as many items into drawers and closets as possible to reduce clutter .  I then moved all the furniture so I could clean the floors where the furniture is normally sitting .  I vacuumed the exposed floor then moved the furniture back into place with a couple changes in the arrangement for fun .  Then I swept the rest of the floor after dusting any surfaces that needed it .  Afterwards, I cleaned all the windows, inside and out, and moved to the bathroom .  After wiping down all the surfaces in the bathroom with a disinfecting cleaner, I took a look around my flat to assess my work .  My apartment was now clean and it felt great . 
+
+Was a lot of soap used to clean the flat
+
+no
+yes
+0
+[[ 0.01240999  0.98759001]]
+-----------------------------------------------
+I had been wanting to get my tattoo fixed for 5 years now and I just couldn't seem to save up the several hundred dollars it would cost to get it fixed .  The other day it dawned on mt that I could buy my own tattoo machine online .  I researched tattoo machines, needles and inks for the better part of a month at different online retailers before I decided on a retailer .  I then researched the product and how to use it for a few more weeks .  I watched videos about the product, tutorials and user reviews .  I figured since I am an artist and pretty good at drawing and tracing that I would give it a go .  I saved up amazon gift cards for several more weeks .  It took a while but I eventually saved the better part of a hundred dollars, one dollar gift card at a time .  I decided to finally make my purchase and the product arrived two days later . 
+
+what website was used
+
+Amazon
+Walmart
+0
+[[ 0.47522365  0.52477635]]
+-----------------------------------------------
+One time in a restaurant I had to send the food back .  Let me tell you what happened .  Well, it was over one week ago, last Tuesday .  I had put on my very best tie that morning before I went to my place of work .  Then, I went out for lunch .  You see, lunch time is a time of the day when you get to get out of your desk to move around and get to go to places that will serve you food .  Well at this place they served me a pumpkin .  I said to the waiter, this is not what I had placed my order for .  The waiter said that he was sorry and took the pumpkin back .  Then he brought out the grilled salmon that I had ordered .  I was suspicious of the salmon because what restaurant accidentally serves a pumpkin instead of a grilled salmon .  That does not inspire confidence . 
+
+Did they bring the wrong food to the table
+
+yes
+No.
+0
+[[ 0.10471057  0.89528943]]
+-----------------------------------------------
+This weekend , I decided I wanted to try baking my first cake  .  I found a recipe online for an easy to make cake , printed out a list of the ingredients , and went to the grocery store to get them  .  I knew about some of the common things , like eggs , flour , and sugar , but the list helped me get a lot of things I did n't own and would n't know to get  .  When I got home , I followed the recipe as closely as I could , adding each of the ingredients at the exact amount of the recipe asked for  .  I mixed them all up as described , and put them into a pan that I had borrowed from my mother  .  I put the pan in the oven and let the cake cook  .  I checked on it occasionally to see if it was looking OK , and because I was really excited to see how it was turning out  .  When it was done in the oven I removed it , and applied an extra thick coat of frosting  .  I was supposed to wait for the cake to cook , but I was too excited to try it out and ate it much sooner than recommended  .  It was delicious  . 
+
+Who bought the ingredients
+
+friend
+narrator
+1
+[[ 0.4179219  0.5820781]]
+-----------------------------------------------
+Mary makes her bed up every weekend with new sheets from her mother's sheet closet .   She goes to the closet, picks out some nice clean sheets, with her favorite colors, and carries two sheets and two pillow cases to the bedroom .   She takes off the old sheets from her bed, and puts them in the hamper to be washed .   She then takes the fitted sheet with the rounded corners, and throws it onto the bed .   She pulls the corners down around the corners of the bed until it is tight .  Then she puts the top sheet on her bed and tucks in the bottom part of her top sheet .   Then she takes the pillow cases and puts one on each pillow, to make a fresh clean bed .   She puts her cover on last, it is a blue one with little flowers .   She loves it, it came from her grandmother from Christmas .  She fluffs the pillows and puts her favorite teddy bear to rest on the pillows as decoration . 
+
+Was it a grown up changing the bed sheets
+
+yes
+no
+1
+[[ 0.99416513  0.00583487]]
+-----------------------------------------------
+It is time to make the bed .   First I take the pillows off of the bed and place them  on the floor of my bed room .   I pull the blanket and flat sheet off of the bed and set it on top of the pillows .   The only thing on the bed is now the fitted sheet .   I go to one corner of the bed and untuck the corner of the fitted sheet so I can shake  the sheet 3 times before putting it back on the corner of the mattress .  I put the flat sheet on the bed first, making sure its flat with no wrinkles .   I put the blanket on top of the sheet, making sure it is on the bed straight with no wrinkles .    I tuck the sheet and blanket under the mattress at the bottom of the bed, The pillows are placed at the top of the bed . 
+
+Do the sheets need to be washed
+
+Yes
+No
+0
+[[ 0.30018816  0.69981184]]
+-----------------------------------------------
+It is time to make the bed .   First I take the pillows off of the bed and place them  on the floor of my bed room .   I pull the blanket and flat sheet off of the bed and set it on top of the pillows .   The only thing on the bed is now the fitted sheet .   I go to one corner of the bed and untuck the corner of the fitted sheet so I can shake  the sheet 3 times before putting it back on the corner of the mattress .  I put the flat sheet on the bed first, making sure its flat with no wrinkles .   I put the blanket on top of the sheet, making sure it is on the bed straight with no wrinkles .    I tuck the sheet and blanket under the mattress at the bottom of the bed, The pillows are placed at the top of the bed . 
+
+Can you make a bed after you get in it
+
+No
+Yes
+0
+[[ 0.04323142  0.95676858]]
+-----------------------------------------------
+Yesterday evening, my friend Jasmine called me on my cell phone .  We talked about so many things and we were on the phone for about 2 hours .  She asked me how life was ever since I moved from Denver to Atlanta .  I told her that life had been amazing and the only thing that sucks, is the horrible traffic .  Jasmine also mentioned that she will be visiting me next month for a week long vacation .  I was so excited to hear that I will have a visitor because sometimes it can get lonely not having family in the same city as you .  I told Jasmine that I will plan to take her to some of the best restaurants in town and plan a big shopping trip .  During our phone call, we also talked about the days when we were in college together .  After a while of talking, we decided that it was time to get off the phone and take care of some things at home .  I really enjoyed our conversation . 
+
+Was it a pleasant call
+
+Yes
+No.
+0
+[[ 0.30588792  0.69411208]]
+-----------------------------------------------
+It was time for my cat to eat her dinner .  Her name is Gracie .  When it's time for her to eat, she will meow constantly and paw at her food bowl .  She also will follow you sometimes .  When I noticed her doing this, I walked to the kitchen cabinet where her food is kept and pulled out one small can of tuna and chicken flavored wet cat food, which is her favorite .  She saw that I did this and affectionately brushed up against my legs .  I opened the can using the pull tab on top of the lid, and used a spoon to scrape all of the food out of the can and into her food dish .  She immediately went to her dish, and had eaten all of her food within a few minutes .  I also placed water into her water bowl, which she lapped up after finishing her cat food . 
+
+What meal is this
+
+breakfast
+dinner
+1
+[[ 0.75579402  0.24420598]]
+-----------------------------------------------
+When I was at camp last summer, I wasn't allowed to use email, so I had to write a letter to my parents to tell them that I wanted to come home .  I sat on my bunk with my notebook propped against my knees and thought about what I wanted to say .  After a few minutes, I decided I knew what I wanted to say, so I picked up my pen and started moving it across the paper .  First I put the date in the upper right hand corner .  Then I wrote "Dear Mom and Dad" on the first line .  I kept writing all the words I needed to use in order to convince my parents to let me come home .  Then I signed the letter with my name .  I folded the letter in half and then folded it in half again so that it would fit in an envelope .  Then I put the letter in an envelope .  I taped the envelope shut .  Then I stuck a stamp on the upper right corner of the envelope .  I wrote my parent's address on the middle of the envelope and then I walked to the camp office and gave my letter to the secretary so she could mail it for me . 
+
+Did they write the letter at a desk
+
+No.
+yes
+0
+[[ 0.05771458  0.94228542]]
+-----------------------------------------------
+My family went for a picnic on Sunday .  My parents had packed food for us to eat at the picnic .  We went to a Mountain which was around 30 miles from my home .  It was around 11 am when we reached the mountain .  There was a small pond with lots of ducks .  My brother and me played for some time in the water .  We played hide and seek for some time .  My family was having a good time, all of us were chatting, playing and singing .  It was around 1 pm .  We were hungry now .  We washed our hands and took out the food which my parents had packed .  My mother laid out the food in separate plates .  I served it to everyone .  We ate our food very quickly as we were all hungry . The food was delicious .  We started playing cards after lunch .  It was around 4 pm when we decided to leave .  We packed our things and left .  It was a fun day for all of us . 
+
+Are they only packing food items
+
+yes
+No.
+1
+[[  9.99037726e-01   9.62274050e-04]]
+-----------------------------------------------
+My family went for a picnic on Sunday .  My parents had packed food for us to eat at the picnic .  We went to a Mountain which was around 30 miles from my home .  It was around 11 am when we reached the mountain .  There was a small pond with lots of ducks .  My brother and me played for some time in the water .  We played hide and seek for some time .  My family was having a good time, all of us were chatting, playing and singing .  It was around 1 pm .  We were hungry now .  We washed our hands and took out the food which my parents had packed .  My mother laid out the food in separate plates .  I served it to everyone .  We ate our food very quickly as we were all hungry . The food was delicious .  We started playing cards after lunch .  It was around 4 pm when we decided to leave .  We packed our things and left .  It was a fun day for all of us . 
+
+How is the weather
+
+rainy
+sunny
+1
+[[ 0.83971292  0.16028708]]
+-----------------------------------------------
+One morning, I got up and I was very tired .  I decided to make a cup of coffee to wake myself up .  Reaching in the fridge, I pulled out the coffee, placed a filter in the coffee maker and added the water to the machine .  While the coffee maker made the coffee, I decided to pour myself a bowl of cereal .  As I ate, the aroma of the coffee filled the kitchen with a rich, earthy smell, letting me know that my hot drink was ready .  I quickly went to cabinet, pulled out my favorite mug, and filled it with coffee and just a little bit of creamer and sugar .  After finishing my first cup of coffee, I poured a second cup into a thermos that I could take with me to work, and finished getting ready for the day .  After a little jolt of caffeine, I was ready to take on anything the day might throw at me . 
+
+Was the coffee too hot
+
+No
+Yes
+0
+[[ 0.16934097  0.83065903]]
+-----------------------------------------------
+One morning, I got up and I was very tired .  I decided to make a cup of coffee to wake myself up .  Reaching in the fridge, I pulled out the coffee, placed a filter in the coffee maker and added the water to the machine .  While the coffee maker made the coffee, I decided to pour myself a bowl of cereal .  As I ate, the aroma of the coffee filled the kitchen with a rich, earthy smell, letting me know that my hot drink was ready .  I quickly went to cabinet, pulled out my favorite mug, and filled it with coffee and just a little bit of creamer and sugar .  After finishing my first cup of coffee, I poured a second cup into a thermos that I could take with me to work, and finished getting ready for the day .  After a little jolt of caffeine, I was ready to take on anything the day might throw at me . 
+
+Are they cooking meat
+
+no
+yes
+0
+[[ 0.15069457  0.84930543]]
+-----------------------------------------------
+One day I was strolling in the woods with my camera .  It was a nice high quality camera with a zoom lens .  The camera was beautiful, but the photographs it took were even more beautiful .  Anyway, I was strolling through the woods .  I had my camera, and I pictured a good shot .  I then took my camera out and aimed it .  I aimed well, and I captured the best photograph that anyone has ever taken .  Or at least, in my opinion anyways .  Well, back to the photograph .  It was taken of a scene in the woods, one of those dark, forested scenes that makes you dread your own existence .  It was of a large tree, next to another tree, next to another tree, in the forest .  There was a beam of light casting through the frame .  It was exhilarating .  I can still see the photo now, burning a hole in my mind's eye .  What a day . 
+
+Did they take the photograph well or not
+
+No.
+yes
+1
+[[ 0.8153804  0.1846196]]
+-----------------------------------------------
+I just got out of bed and am having a very hard time focusing .   I feel like I can barely function .   Then it hits me, I am in desperate need of caffein .   I walk into the kitchen .   I open the cabinet and take out a can of coffee .   It is a new can so I have to open with the can opener .   I line the basket with a disposable paper liner for easier clean up .   Next I get a spoon out of the drawer and measure out a large scoop of coffee and add to the filter basket .   Just the smell is helping me to wake up .   I measure out two more scoops of coffee .  I then put the filter into the coffee maker .  I then take the carafe and fill with water .   This is then poured into the coffee pot .   I hit the on button and wait a couple of minutes .   Then I pour the hot coffee into a mug and start to feel better . 
+
+Was the coffee too hot
+
+no
+yes
+0
+[[ 0.01178887  0.98821113]]
+-----------------------------------------------
+One of my lights in my lamp went out yesterday so I investigated to see what was the matter .   I checked and the lamp was plugged and circuit breaker not tripped so I checked the bulb in the lamp .   Further inspection revealed the bulb was brown so I knew it had burned out and needed replacement .   Not having any extra in the house, I decided to go to the local Home Depot to buy the bulb I need .   I checked the store and looked at the wide variety of available bulbs to purchase .   I finally settled on a 75 Watt equal LED bulb and went to the counter to make my purchase .   The clerk was friendly on check out and I got the five dollars from my wallet to buy the home .   I then drove home and returned to my house .   I found the lamp in my living room and unscrewed the old bulb in the lamp after making sure the lamp was turned off .   I then screwed in the new light bulb, flipped the power switch, and the light came on .   Voila . 
+
+Did it break when it went out
+
+No
+Yes
+0
+[[ 0.43939508  0.56060492]]
+-----------------------------------------------
+Yesterday I decided to boil some milk so I could make cottage cheese .  The first thing I did was select a pan to boil the milk .  I decided to choose the widest pan I had, because the wider pan would let me boil the milk more quickly .  It is important to select the right pan, a narrow pan will take longer for the milk to come to a boil and will increase the risk of burning the milk on the bottom of the pan .  Once I selected the pan, I poured the milk into the pan, and turned the heat on the stove top to medium high heat .  For the next ten minutes, I constantly stirred the milk as it heated, to evenly distribute heat and to reduce the risk of the milk burning in the pan .  After ten minutes of heating, the milk came to a boil, so I removed the pan from the heat, ready to use my sterilized milk to make cottage cheese . 
+
+Did they use a potholder to remove the boiling milk for the heat source
+
+yes
+no
+0
+[[ 0.04979592  0.95020408]]
+-----------------------------------------------
+I'm hungry and I think I want some scrambled eggs .  I need to get my ingredients first .  I open the refrigerator and grab two eggs, butter, and the milk .  I get my non-stick pan from the cabinet and a silicone spatula .  I place a little butter in the pan and turn the stove on medium heat .  As the pan begins to heat, I crack my eggs, add a little milk and mix thoroughly .  I think my pan is ready and pour my eggs in while moving them slowly with the spatula .  I sprinkle them lightly with salt and pepper and continue stirring .  As they start to firm up in areas, I lower the heat and continue stirring just long enough until my eggs look slightly set .  I don't like them too runny .  I can now slide them off onto my plate and turn off the stove .  I have a nutritious meal in minutes . 
+
+Did they add anything to the eggs
+
+yes
+nothing.
+0
+[[ 0.50320175  0.49679825]]
+-----------------------------------------------
+Last night I invited some friends over for dinner .  I decided to set the dining room table for dinner, rather than have us all eat around the coffee table in the living room like my partner and I usually do .  First, I chose the tablecloth .  We have a purple tablecloth, a light blue snowflake patterned tablecloth, and a bright colored floral tablecloth .  I chose the floral one because I felt it was most appropriate for summertime .  Next, I put a cloth napkin at each place and set utensils on top of the napkin - a knife, fork, and spoon .  Then I placed a plate at each setting, four in total .  I added a water glass at each setting as well .  Then I put out the salt and pepper in the middle of the table so it was accessible to everyone .  Lastly, I lit two candles and placed them in the center of the table as well .  The dining room table looked great and ready for a dinner party . 
+
+For how many people did they set the table for
+
+4
+2
+0
+[[ 0.25938846  0.74061154]]
+-----------------------------------------------
+Today was a really hot day .  It was 95 degrees .  I decided to go to the swimming pool in my neighborhood and cool off .  I put on my bathing suit, a cover up dress, a hat with a large brim, sunglasses, and flip flops .  I packed a bag with sunscreen, a towel, and a cold bottle of water .  Then I walked three blocks to the swimming pool .  It was crowded, but I was able to find an available lounge chair on the side of the pool .  I put my things down and took the sunscreen out of the bag .  I prayed the sunscreen all over my body .  Then I laid down on the chair to relax .  After about twenty minutes, I was ready to go in the water and go swimming .  I swam five laps and then I was ready to get out .  I got out of the pool, toweled off, and laid down on the chair again .  It was a nice day . 
+
+Did they put on sunscreen or other protection before swimming
+
+No
+Yes
+1
+[[ 0.98354673  0.01645327]]
+-----------------------------------------------
+Last weekend, my friend and I decided it would be a good time to paper our living room .  The previous residents of the house we live in had used wallpaper on the living room walls that was a very odd shade of red, which we thought looked strange .  We wanted the living room to get a new color of wallpaper, and we wanted to choose a color that would match our personality .  We first went to Sherwin-Williams, which is a paint and wallpaper store .  We looked at the wallpaper color samples and picked up a few brochures with examples of how the samples would look on our walls .  We decided that a cheery yellow color would look best on our walls, and selected that color .  We then returned to Sherwin-Williams and purchased the yellow wallpaper .  We then applied the wallpaper to our walls and stood back to admire our work . 
+
+What color was the wallpaper
+
+Yellow
+Red
+0
+[[ 0.48609546  0.51390454]]
+-----------------------------------------------
+We have a large yard, a half acre on a corner lot .  Due to the size, we have a ride-on mower which makes cutting the grass relatively easy, I would even say "fun . " Thanks to a lot of experience, I can get that thing moving and get the yard done in just a little under an hour .  It's normal, average, boring .  Except this one time .  .  .  .  A cousin had taken our ride-on mower to do some maintenance on it .  He had taken it on a Friday evening and had promised it would be back by Sunday evening .  He was wrong .  Sunday and Monday came and went with no sign of our lawn mower .  Tuesday evening came and the grass was up to your ankles .  It needed to be cut .  We had bought a small push mower to get into the small spaces so we pulled it out .  Me, my wife and my mother-in-law took turns pushing that mower up and down the yard for a good two hours .  We had one tiny little bit left of the yard when Howard, the cousin, pulled up with the push mower . 
+
+Did anyone help to mow the lawn
+
+Yes
+No
+0
+[[ 0.05093728  0.94906272]]
+-----------------------------------------------
+My name is Katie and I am a professional photographer .   My seven year old daughter Penny also takes pictures with her camera .  When Penny was five she asked me to show her how to take photos .  She needed her own small camera so she can learn .  We went to the store and bought Penny her first camera .  We then went to the dog park .  Penny loves dogs and wanted to photograph them .  We arrived at the park and sat down on a bench so I can teach her how to use her camera .  She opened the box and got her camera out .  Penny pressed the big red button and the camera cut on .  I showed her how to hold the camera correctly and how to take her first photo .  Since then, Penny has learned how to take beautiful photographs .  She is planning to teach other children how to take photos . 
+
+Did they finish taking the photograph
+
+no
+yes
+1
+[[ 0.96726326  0.03273674]]
+-----------------------------------------------
+My name is Katie and I am a professional photographer .   My seven year old daughter Penny also takes pictures with her camera .  When Penny was five she asked me to show her how to take photos .  She needed her own small camera so she can learn .  We went to the store and bought Penny her first camera .  We then went to the dog park .  Penny loves dogs and wanted to photograph them .  We arrived at the park and sat down on a bench so I can teach her how to use her camera .  She opened the box and got her camera out .  Penny pressed the big red button and the camera cut on .  I showed her how to hold the camera correctly and how to take her first photo .  Since then, Penny has learned how to take beautiful photographs .  She is planning to teach other children how to take photos . 
+
+What type of person is taking the photograph
+
+mother
+child
+1
+[[ 0.92318845  0.07681155]]
+-----------------------------------------------
+Last night my air conditioner stopped working .  It was so hot and sweaty while I was sleeping .  It was clear when I woke up that I was going to have to change my sheets .  I took off the blankets, sheets and pillow cases .  I took them all to the laundry room .  I placed the into the washing machine .  I added the proper amount of liquid laundry detergent .  I like the stuff that has a really strong smell .  I closed the lid and let it wash .  After it was done, I removed them and placed the in the dryer with a fabric softener sheet .  They took an hour to dry .  I removed them while they were still warm and carried them to my room .  I placed the fitted sheet on, as the corners played a game of popping off as I ran from corner to corner putting it back on .  I then put the flat sheet on, the blankets on the pillow cases on and top a moment to lay on top of the fresh bedding and just smell it for a minute .  That is the best smell in the world . 
+
+Did they help change the bedsheets
+
+Yes
+No
+0
+[[ 0.05645338  0.94354662]]
+-----------------------------------------------
+Last night my air conditioner stopped working .  It was so hot and sweaty while I was sleeping .  It was clear when I woke up that I was going to have to change my sheets .  I took off the blankets, sheets and pillow cases .  I took them all to the laundry room .  I placed the into the washing machine .  I added the proper amount of liquid laundry detergent .  I like the stuff that has a really strong smell .  I closed the lid and let it wash .  After it was done, I removed them and placed the in the dryer with a fabric softener sheet .  They took an hour to dry .  I removed them while they were still warm and carried them to my room .  I placed the fitted sheet on, as the corners played a game of popping off as I ran from corner to corner putting it back on .  I then put the flat sheet on, the blankets on the pillow cases on and top a moment to lay on top of the fresh bedding and just smell it for a minute .  That is the best smell in the world . 
+
+whose bed sheets did they belong to
+
+Mother
+Speaker
+1
+[[ 0.51468684  0.48531316]]
+-----------------------------------------------
+I always wash my hair at the beginning of my shower .  I make the water hot and stand under the hot water to make my hair wet .  I switch between different shampoo and conditioner brands so grab whichever scent I want to smell that day .  I squeeze a big glob of shampoo in my hand and rub my hands together then lather it into my hair, I rinse the shampoo out .  I squeeze the matching conditioner into my hand and start at my roots rubbing it up to my scalp .  Once I get all of the conditioner distributed I let it sit for a few minutes to do it's job, I wash the rest of my body while the conditioner is working .  I rinse out all of the conditioner and turn the water off .  I gently put my hair up in a towel to dry it and when it is towel dry I run leave in conditioner through it to make it more manageable . 
+
+Did they need a lot of towels to dry their hair
+
+no
+yes
+0
+[[ 0.09552671  0.90447329]]
+-----------------------------------------------
+I always wash my hair at the beginning of my shower .  I make the water hot and stand under the hot water to make my hair wet .  I switch between different shampoo and conditioner brands so grab whichever scent I want to smell that day .  I squeeze a big glob of shampoo in my hand and rub my hands together then lather it into my hair, I rinse the shampoo out .  I squeeze the matching conditioner into my hand and start at my roots rubbing it up to my scalp .  Once I get all of the conditioner distributed I let it sit for a few minutes to do it's job, I wash the rest of my body while the conditioner is working .  I rinse out all of the conditioner and turn the water off .  I gently put my hair up in a towel to dry it and when it is towel dry I run leave in conditioner through it to make it more manageable . 
+
+Were they wearing a shower cap
+
+yes
+no
+1
+[[ 0.99736842  0.00263158]]
+-----------------------------------------------
+I went to the Dallas Museum of Art yesterday .  It was so much fun .  I took my friend Becky .  She loves art .  When we got there we bought our tickets .  I liked the big entrance with all types of art all around .  First we went to the painting area .  There were many paintings .  We could have spent the whole day looking at all the paintings and talking about them .  One painting had a lady in front of a house .  It looked simple, but my friend Becky explained the painting to me .  The painting had meanings or symbolism in it .  She said it was like a story looking at the lady's facial expression and how her house looked .  Next we went to look at the sculptures .  There were very old ones and some modern ones as well .  I think I liked the paintings better .  I liked the colors of the painting . 
+
+Did they see a famous document at the museum 
+
+yes
+no
+1
+[[ 0.99831721  0.00168279]]
+-----------------------------------------------
+The phone rang and I went over to it and I picked up the receiver and said "Hello . "  "who is calling please?"  It was gramma and I talked with her for a period of time about my day and she told me about hers and what she had been dong and how grandpa was .   She calling to speak with my mother but she was not home at the time .   Gramma asked if I had a pencil and paper and could take a message for mom and give it to her when she cane home .   I said I would do the best I could to do so .   I got a pencil and paper and slowly wrote down what gramma told me, and she had me read it back to her to make sure I got the information right .   I did and I said "goodbye" to gramma and she said "goodbye" to me . 
+
+Did they say hello
+
+yes
+No.
+0
+[[ 0.28909441  0.71090559]]
+-----------------------------------------------
+The phone rang and I went over to it and I picked up the receiver and said "Hello . "  "who is calling please?"  It was gramma and I talked with her for a period of time about my day and she told me about hers and what she had been dong and how grandpa was .   She calling to speak with my mother but she was not home at the time .   Gramma asked if I had a pencil and paper and could take a message for mom and give it to her when she cane home .   I said I would do the best I could to do so .   I got a pencil and paper and slowly wrote down what gramma told me, and she had me read it back to her to make sure I got the information right .   I did and I said "goodbye" to gramma and she said "goodbye" to me . 
+
+Who was the person who called
+
+Grandpa
+gramma
+1
+[[ 0.50232559  0.49767441]]
+-----------------------------------------------
+The phone rang and I went over to it and I picked up the receiver and said "Hello . "  "who is calling please?"  It was gramma and I talked with her for a period of time about my day and she told me about hers and what she had been dong and how grandpa was .   She calling to speak with my mother but she was not home at the time .   Gramma asked if I had a pencil and paper and could take a message for mom and give it to her when she cane home .   I said I would do the best I could to do so .   I got a pencil and paper and slowly wrote down what gramma told me, and she had me read it back to her to make sure I got the information right .   I did and I said "goodbye" to gramma and she said "goodbye" to me . 
+
+Were they very talkative
+
+Yes
+No
+0
+[[ 0.39599851  0.60400149]]
+-----------------------------------------------
