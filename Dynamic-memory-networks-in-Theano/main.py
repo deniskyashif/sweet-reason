@@ -101,7 +101,8 @@ def do_epoch(mode, epoch, skipped=0):
     prev_time = time.time()
     
     batches_per_epoch = dmn.get_batches_per_epoch(mode)
-    
+    if mode == "test":
+        file_object = open("./output.txt","w")
     for i in range(0, batches_per_epoch):
         step_data = dmn.step(i, mode)
         prediction = step_data["prediction"]
@@ -109,7 +110,17 @@ def do_epoch(mode, epoch, skipped=0):
         current_loss = step_data["current_loss"]
         current_skip = (step_data["skipped"] if "skipped" in step_data else 0)
         log = step_data["log"]
-        
+        if mode == "test":
+            if ((prediction[0][answers[0]] < prediction[0][answers[0]^1])) \
+                    or abs(prediction[0][0] - prediction[0][1]) < 0.2:
+                file_object.write((str(babi_test_raw[i]['C']) + "\n\n").encode("UTF-8"))
+                file_object.write((str(babi_test_raw[i]['Q']) + "\n\n").encode("UTF-8"))
+                file_object.write((str(babi_test_raw[i]['A1']) + "\n").encode("UTF-8"))
+                file_object.write((str(babi_test_raw[i]['A2']) + "\n").encode("UTF-8"))
+                file_object.write((str(babi_test_raw[i]['A']) + "\n").encode("UTF-8"))
+                file_object.write((str(prediction)).encode("UTF-8"))
+                file_object.write(("\n-----------------------------------------------\n").encode("UTF-8"))
+
         skipped += current_skip
         
         if current_skip == 0:
@@ -132,7 +143,8 @@ def do_epoch(mode, epoch, skipped=0):
         if np.isnan(current_loss):
             print "==> current loss IS NaN. This should never happen :) " 
             exit()
-
+    if mode == "test":
+        file_object.close();
     avg_loss /= batches_per_epoch
     print "\n  %s loss = %.5f" % (mode, avg_loss)
     print "confusion matrix:"
@@ -158,7 +170,7 @@ if args.mode == 'train':
         
         epoch_loss, skipped, accuracy = do_epoch('test', epoch, skipped)
         
-        state_name = 'states/%s.epoch%d.test%.5facc%.5f0000000000000000000000000000................................................................................................state' % (network_name, epoch, epoch_loss, accuracy)
+        state_name = 'states/%s.epoch%d.test%.5facc%.5fstate' % (network_name, epoch, epoch_loss, accuracy)
 
         if (epoch % args.save_every == 0):    
             print "==> saving ... %s" % state_name
