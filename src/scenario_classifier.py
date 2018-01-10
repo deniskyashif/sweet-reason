@@ -16,12 +16,21 @@
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
+from nltk.stem.porter import PorterStemmer
 import xml.etree.ElementTree as et
 from numpy import array
+import nltk
 import glob
 import os
 
-tokenize = lambda doc: doc.lower().split(" ")
+
+def tokenize(text):
+    tokens = nltk.word_tokenize(text)
+    stems = []
+    for item in tokens:
+        stems.append(PorterStemmer().stem(item))
+    return stems
+
 
 sklearn_tfidf = TfidfVectorizer(norm='l2',min_df=0, use_idf=True, smooth_idf=False, sublinear_tf=True, tokenizer=tokenize)
 
@@ -49,7 +58,3 @@ def calculate_similarity(target):
     cosine_similarities = linear_kernel(sklearn_test, sklearn_representation).flatten()
     related_docs_indices = cosine_similarities.argsort()[:-4:-1]
     return list(zip(array(script_names)[related_docs_indices], cosine_similarities[related_docs_indices]))
-
-    print(related_docs_indices)
-    print(array(script_names)[related_docs_indices])
-    print(cosine_similarities[related_docs_indices])
