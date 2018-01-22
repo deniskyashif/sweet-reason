@@ -11,13 +11,14 @@ import cPickle as pickle
 
 import utils
 import nn_utils
+import random
 
 floatX = theano.config.floatX
 
 class DMN_qa:
     
     def __init__(self, babi_train_raw, babi_test_raw, word2vec, word_vector_size, 
-                dim, mode, input_mask_mode, memory_hops, l2, normalize_attention, **kwargs):
+                dim, mode, answer_module, input_mask_mode, memory_hops, l2, normalize_attention, **kwargs):
 
         print "==> not used params in DMN class:", kwargs.keys()
         self.vocab = {}
@@ -27,6 +28,7 @@ class DMN_qa:
         self.word_vector_size = word_vector_size
         self.dim = dim
         self.mode = mode
+        self.answer_module = answer_module
         self.input_mask_mode = input_mask_mode
         self.memory_hops = memory_hops
         #self.batch_size = 1
@@ -120,7 +122,38 @@ class DMN_qa:
 
         print "==> building answer module"
         self.W_a = theano.shared(lasagne.init.Normal(0.1).sample((self.vocab_size, 2 * self.dim)), borrow=True)
-        self.prediction = nn_utils.softmax(T.dot(self.W_a, last_mem))
+
+        if self.answer_module == 'feedforward':
+            self.prediction = nn_utils.softmax(T.dot(self.W_a, last_mem))
+
+        elif self.answer_module == 'recurrent':
+            self.W_ans_res_in = nn_utils.normal_param(std=0.1, shape=(self.dim, self.dim + self.vocab_size))
+            self.W_ans_res_hid = nn_utils.normal_param(std=0.1, shape=(self.dim, self.dim))
+            self.b_ans_res = nn_utils.constant_param(value=0.0, shape=(self.dim,))
+
+            self.W_ans_upd_in = nn_utils.normal_param(std=0.1, shape=(self.dim, self.dim + self.vocab_size))
+            self.W_ans_upd_hid = nn_utils.normal_param(std=0.1, shape=(self.dim, self.dim))
+            self.b_ans_upd = nn_utils.constant_param(value=0.0, shape=(self.dim,))
+
+            self.W_ans_hid_in = nn_utils.normal_param(std=0.1, shape=(self.dim, self.dim + self.vocab_size))
+            self.W_ans_hid_hid = nn_utils.normal_param(std=0.1, shape=(self.dim, self.dim))
+            self.b_ans_hid = nn_utils.constant_param(value=0.0, shape=(self.dim,))
+
+            def answer_step(prev_a, prev_y):
+                a = self.GRU_update(prev_a, T.concatenate([prev_y, self.q_q]),
+                                    self.W_ans_res_in, self.W_ans_res_hid, self.b_ans_res,
+                                    self.W_ans_upd_in, self.W_ans_upd_hid, self.b_ans_upd,
+                                    self.W_ans_hid_in, self.W_ans_hid_hid, self.b_ans_hid)
+
+                y = nn_utils.softmax(T.dot(self.W_a, a))
+                return [a, y]
+
+            # TODO: add conditional ending
+            dummy = theano.shared(np.zeros((self.vocab_size,), dtype=floatX))
+            results, updates = theano.scan(fn=answer_step,
+                                           outputs_info=[last_mem, T.zeros_like(dummy)],
+                                           n_steps=1)
+            self.prediction = results[1][-1]
         
         
         print "==> collecting all parameters"
@@ -131,8 +164,12 @@ class DMN_qa:
                   self.W_mem_upd_in, self.W_mem_upd_hid, self.b_mem_upd,
                   self.W_mem_hid_in, self.W_mem_hid_hid, self.b_mem_hid,
                   self.W_b, self.W_1, self.W_2, self.b_1, self.b_2, self.W_a]
-        
-        
+
+        if self.answer_module == 'recurrent':
+            self.params = self.params + [self.W_ans_res_in, self.W_ans_res_hid, self.b_ans_res,
+                                         self.W_ans_upd_in, self.W_ans_upd_hid, self.b_ans_upd,
+                                         self.W_ans_hid_in, self.W_ans_hid_hid, self.b_ans_hid]
+
         print "==> building loss layer and computing updates"
         self.loss_ce = T.nnet.categorical_crossentropy(self.prediction.dimshuffle('x', 0), T.stack([self.ans_var]))[0]
         if self.l2 > 0:
@@ -165,8 +202,13 @@ class DMN_qa:
             self.get_gradient_fn = theano.function(inputs=[self.inp_var, self.q_var, self.ans_var,
                                                     self.ca_var, self.cb_var,# self.cc_var, self.cd_var,
                                                     self.input_mask_var], outputs=gradient)
-    
-    
+
+    def shuffle_train_set(self):
+        print "==> Shuffling the train set"
+        combined = zip(self.train_input, self.train_q, self.train_answer, self.train_choices, self.train_input_mask)
+        random.shuffle(combined)
+        self.train_input, self.train_q, self.train_answer, self.train_choices, self.train_input_mask = zip(*combined)
+
     def GRU_update(self, h, x, W_res_in, W_res_hid, b_res,
                          W_upd_in, W_upd_hid, b_upd,
                          W_hid_in, W_hid_hid, b_hid):
@@ -305,18 +347,11 @@ class DMN_qa:
             #assert (pa != -1 and pb != -1 #and pc != -1 and pd != -1
             #        and pa < pb )#and pb < pc and pc < pd)
 
-            ca = x["A1"]
-            cb = x["A2"]
-            #ca = inp[pa+1:pb]
-            #cb = inp[pb + 1:]
-            #cb = inp[pb+1:pc]
-            #cc = inp[pc+1:pd]
-            #cd = inp[pd+1:]
-            ca = ca.replace('.','')
-            cb = cb.replace('.', '')
-            #cb = cb[:self._find_first(cb, '.')+1]
-            #cc = cc[:self._find_first(cc, '.')+1]
-            #cd = cd[:self._find_first(cd, '.')+1]
+            ca = x["A1"].replace('.', '').lower().split(' ')
+            cb = x["A2"].replace('.', '').lower().split(' ')
+
+            ca = [w for w in ca if len(w) > 0]
+            cb = [w for w in cb if len(w) > 0]
 
             inp_vector = [utils.process_word(word = w, 
                                         word2vec = self.word2vec, 
@@ -341,7 +376,7 @@ class DMN_qa:
                                         word_vector_size = self.word_vector_size, 
                                         to_return = "word2vec",
                                         silent = True) for w in choice], dtype=floatX)
-                                                            for choice in [ca, cb]]#, cc, cd]]
+                                                            for choice in [ca, cb]]
                                         
             
             inputs.append(np.vstack(inp_vector).astype(floatX))
