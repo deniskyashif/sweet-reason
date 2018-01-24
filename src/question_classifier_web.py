@@ -28,6 +28,13 @@ def classify_question(question):
     """
     payload = {"auth": "keho120l4l", "question": question}
     res = requests.get("http://qcapi.harishmadabushi.com/?", params=payload)
+
+    if not res.text:
+        return ("UNDEF", "other")
+
     res_obj = res.json()
+
+    if res_obj["status"] == "Fail":
+        return ("UNDEF", "other")
 
     return (res_obj["major_type"], res_obj["minor_type"])
