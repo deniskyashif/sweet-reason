@@ -1,3 +1,22 @@
+# Classifies a text to predict a DeScript\OMCS sequence with cosine similarity
+#
+# Usage:
+# Import using: from sequence_classifier import get_sequence
+# Before importing, make sure you have w2v pre-trained model inside line 32:
+# w2v = gensim.models.KeyedVectors.load_word2vec_format("../data/wiki.en.vec", binary=False)
+# from scenario_classifier import calculate_similarity
+# 
+# the method expects a string, preferably the question concatenated with the answers
+# get_sequence("Did the tub fill with water? yes no")
+#
+# Output:
+# a string that is the closest sequence from DeScript/OMCS
+#
+# Exmaple:
+# get_sequence("Did the tub fill with water? yes no")
+# "Walk into my bathroom Turn water in tub on Feel the water to see if it's the right temperature Put clog in bottom of bathtub Let tub fill up Undress Get in tub Wash myself Empty bath Towel off "
+
+
 import re
 import os
 import glob
