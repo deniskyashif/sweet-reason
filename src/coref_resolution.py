@@ -6,9 +6,14 @@
 import sys
 import xml.etree.ElementTree
 import nltk
+
+#nltk.download()
+
 from pycorenlp import StanfordCoreNLP
 from nltk.tokenize import word_tokenize
 from nltk.tokenize.moses import MosesDetokenizer
+
+
 
 
 nlp = StanfordCoreNLP('http://localhost:9000')
@@ -82,9 +87,21 @@ task_train_data_path = sys.argv[1]
 document_root = xml.etree.ElementTree.parse(task_train_data_path).getroot()
 story = document_root.findall('instance/text')[2]
 
+for child in document_root:
+    try:
+        child[0].text = resolve_coreferences(child[0].text)
+        print(child.attrib['id'])
+    except:
+        print('Skipped' + child.attrib['id'])
+
+
+xml.etree.ElementTree.tostring(document_root)
 text = story.text
 print(text)
 print()
+#document_root.write(open(task_train_data_path + '.out', 'w'), encoding='unicode')
+with open(task_train_data_path + '.out', 'wb') as output:
+    output.write(xml.etree.ElementTree.tostring(document_root))
 
 resolved_text = resolve_coreferences(text)
 print(resolved_text)
