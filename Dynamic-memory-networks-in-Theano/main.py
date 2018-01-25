@@ -101,8 +101,8 @@ def do_epoch(mode, epoch, skipped=0):
     prev_time = time.time()
     
     batches_per_epoch = dmn.get_batches_per_epoch(mode)
-    if mode == "test":
-        file_object = open("./output.txt","w")
+    #if mode == "test":
+        #file_object = open("./output.txt","w")
     for i in range(0, batches_per_epoch):
         step_data = dmn.step(i, mode)
         prediction = step_data["prediction"]
@@ -110,16 +110,16 @@ def do_epoch(mode, epoch, skipped=0):
         current_loss = step_data["current_loss"]
         current_skip = (step_data["skipped"] if "skipped" in step_data else 0)
         log = step_data["log"]
-        if mode == "test":
-            if ((prediction[0][answers[0]] < prediction[0][answers[0]^1])) \
-                    or abs(prediction[0][0] - prediction[0][1]) < 0.2:
-                file_object.write((str(babi_test_raw[i]['C']) + "\n\n").encode("UTF-8"))
-                file_object.write((str(babi_test_raw[i]['Q']) + "\n\n").encode("UTF-8"))
-                file_object.write((str(babi_test_raw[i]['A1']) + "\n").encode("UTF-8"))
-                file_object.write((str(babi_test_raw[i]['A2']) + "\n").encode("UTF-8"))
-                file_object.write((str(babi_test_raw[i]['A']) + "\n").encode("UTF-8"))
-                file_object.write((str(prediction)).encode("UTF-8"))
-                file_object.write(("\n-----------------------------------------------\n").encode("UTF-8"))
+        #if mode == "test":
+            #if ((prediction[0][answers[0]] < prediction[0][answers[0]^1])) \
+                    #or abs(prediction[0][0] - prediction[0][1]) < 0.2:
+                #file_object.write((str(babi_test_raw[i]['C']) + "\n\n").encode("UTF-8"))
+                #file_object.write((str(babi_test_raw[i]['Q']) + "\n\n").encode("UTF-8"))
+                #file_object.write((str(babi_test_raw[i]['A1']) + "\n").encode("UTF-8"))
+                #file_object.write((str(babi_test_raw[i]['A2']) + "\n").encode("UTF-8"))
+                #file_object.write((str(babi_test_raw[i]['A']) + "\n").encode("UTF-8"))
+                #file_object.write((str(prediction)).encode("UTF-8"))
+                #file_object.write(("\n-----------------------------------------------\n").encode("UTF-8"))
 
         skipped += current_skip
         
@@ -143,8 +143,8 @@ def do_epoch(mode, epoch, skipped=0):
         if np.isnan(current_loss):
             print "==> current loss IS NaN. This should never happen :) " 
             exit()
-    if mode == "test":
-        file_object.close();
+    #if mode == "test":
+        #file_object.close();
     avg_loss /= batches_per_epoch
     print "\n  %s loss = %.5f" % (mode, avg_loss)
     print "confusion matrix:"
@@ -163,8 +163,8 @@ if args.mode == 'train':
     for epoch in range(args.epochs):
         start_time = time.time()
         
-#        if args.shuffle:
-#            dmn.shuffle_train_set()
+        if args.shuffle:
+            dmn.shuffle_train_set()
 
         _, skipped, _ = do_epoch('train', epoch, skipped)
         

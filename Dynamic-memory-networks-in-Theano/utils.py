@@ -28,6 +28,8 @@ def init_babi(fname):
 
 def init_semeval(data_file):
     instances = instance_parser.get_instances(data_file)
+    """
+    print len(instances)    
     new_instances = []
     for instance in instances:
         new_questions = []
@@ -39,6 +41,9 @@ def init_semeval(data_file):
             new_instances.append(instance)
 
     instances = new_instances
+    print(len(instances))
+    """
+
     # Parsing'
     tasks = []
 
@@ -59,8 +64,8 @@ def init_semeval(data_file):
     return tasks
 
 def get_semeval_raw():
-    semeval_train_raw = init_semeval(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'train-data.xml'))
-    semeval_test_raw = init_semeval(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'dev-data.xml'))
+    semeval_train_raw = init_semeval(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'train-data.xml.out'))
+    semeval_test_raw = init_semeval(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'dev-data.xml.out'))
     return semeval_train_raw, semeval_test_raw
 
 def get_babi_raw(id, test_id):
@@ -114,7 +119,7 @@ def get_babi_raw(id, test_id):
     babi_name = babi_map[id]
     babi_test_name = babi_map[test_id]
     babi_train_raw = init_babi(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data/en/%s_train.txt' % babi_name))
-    babi_test_raw = init_babi(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data/en/%s_test.txt' % babi_test_name))
+    babi_test_raw = init_babi(os.path.join(os.path.dirname(os.path.realpath(__file__)), 'data/en/%s_tes.txt' % babi_test_name))
     return babi_train_raw, babi_test_raw
 
             
