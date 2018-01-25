@@ -35,15 +35,15 @@ def tokenize(text):
 sklearn_tfidf = TfidfVectorizer(norm='l2',min_df=0, use_idf=True, smooth_idf=False, sublinear_tf=True, tokenizer=tokenize)
 
 def import_texts(path, attribute, script_list, names_list):
-    for infile in glob.glob(os.path.join(path, '*.*')):
-        names_list.append(infile)
-        root = et.parse(infile).getroot()
-        text = ""
-        for child in root:
-            for i in child:
-                text += i.attrib[attribute]
-                text += " "
-        script_list.append(text)
+  for infile in glob.glob(os.path.join(path, '*.*')):
+    names_list.append(infile)
+    root = et.parse(infile).getroot()
+    text = ""
+    for child in root:
+      for i in child:
+        text += i.attrib[attribute]
+        text += " "
+    script_list.append(text)
 
 
 scripts = []
