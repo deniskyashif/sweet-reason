@@ -29,7 +29,7 @@ from scipy.spatial.distance import cosine
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 
-w2v = gensim.models.KeyedVectors.load_word2vec_format("../data/wiki.en.vec", binary=False)
+w2v = gensim.models.KeyedVectors.load_word2vec_format("../data/glove.w2v.txt", binary=False)
 
 
 def tokenize(text):
@@ -133,14 +133,16 @@ sklearn_tfidf = TfidfVectorizer(norm='l2',min_df=0, use_idf=True, smooth_idf=Fal
 
 omcs_sequences = import_sequences("../data/omcs_stories", "text")
 descript_sequences = import_sequences("../data/DeScript", "original")
+rkp_sequences = import_sequences("../data/rkp_xml", "text")
 
 omcs_scripts, omcs_script_names = import_scripts("../data/omcs_stories", "text")
 descript_scripts, descript_script_names = import_scripts("../data/DeScript", "original")
+rkp_scripts, rkp_script_names = import_scripts("../data/rkp_xml", "text")
 
-scripts = omcs_scripts + descript_scripts
-script_names = omcs_script_names + descript_script_names
+scripts = omcs_scripts + descript_scripts + rkp_scripts
+script_names = omcs_script_names + descript_script_names + rkp_script_names
 
-sequences = omcs_sequences + descript_sequences
+sequences = omcs_sequences + descript_sequences + rkp_sequences
 
 sklearn_representation = sklearn_tfidf.fit_transform(scripts)
 
