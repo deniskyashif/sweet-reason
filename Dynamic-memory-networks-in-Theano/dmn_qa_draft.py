@@ -2,11 +2,11 @@ import numpy as np
 
 import theano
 import theano.tensor as T
-from theano.compile.nanguardmode import NanGuardMode
 
 import lasagne
-from lasagne import layers
-from lasagne import nonlinearities
+import sys
+sys.path.append('../src/')
+import sequence_classifier
 import cPickle as pickle
 
 import utils
@@ -333,7 +333,8 @@ class DMN_qa:
         answers = []
         input_masks = []
         for x in data_raw:
-            inp = x["C"].lower().split(' ') 
+            x["C"] += sequence_classifier.get_sequence(x["Q"].lower() +' '+ x["A1"]+' ' + x["A2"])
+            inp = x["C"].lower().split(' ')
             inp = [w for w in inp if len(w) > 0]
 
             q = x["Q"].lower().split(' ')
