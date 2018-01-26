@@ -93,6 +93,8 @@ def import_sequences(path, attribute):
     for child in root:
       for i in child:
         text += i.attrib[attribute]
+        if text[-1] != '.':
+          text += "."
         text += " "
       sequences.append(text)
       text = ""
