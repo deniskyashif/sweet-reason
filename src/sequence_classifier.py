@@ -28,9 +28,9 @@ from nltk.stem.porter import PorterStemmer
 from scipy.spatial.distance import cosine
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-
+print("==> Loading wiki vectors")
 w2v = gensim.models.KeyedVectors.load_word2vec_format("../data/wiki.en.vec", binary=False)
-
+print("==> Loading wiki vectors end")
 
 def tokenize(text):
   tokens = word_tokenize(text)
