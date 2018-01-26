@@ -29,7 +29,7 @@ from scipy.spatial.distance import cosine
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 
-w2v = gensim.models.KeyedVectors.load_word2vec_format("../data/glove.w2v.txt", binary=False)
+w2v = gensim.models.KeyedVectors.load_word2vec_format("../data/wiki.en.vec", binary=False)
 
 
 def tokenize(text):
