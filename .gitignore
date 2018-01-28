@@ -2,3 +2,4 @@
 __pycache__/
 *.py[cod]
 data/wiki.en.vec
+data/glove.w2v.txt
